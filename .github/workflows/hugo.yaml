@@ -45,8 +45,8 @@ jobs:
         run: npm install autoprefixer
       - name: Install postcss-cli 
         run: npm install postcss-cli
-
-
+      - name: Install npx
+        run: npm i -g npx
       - name: Checkout
         uses: actions/checkout@v4
         with:
