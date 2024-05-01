@@ -44,8 +44,8 @@ jobs:
         run: npm install postcss-cli
       - name: Install postcss 
         run: npm install -D postcss
-      - name: install npx
-        run: npm install -g npx
+      - name: GitHub Action for npx
+        uses: mikeal/npx@1.0.0
       - name: install tailwindcss
         run: npm install tailwindcss@latest
       - name: Install Dart Sass
