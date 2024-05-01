@@ -40,17 +40,17 @@ jobs:
       BRANCH: ${{ github.head_ref }}
       PR_REPO: ${{ github.event.pull_request.head.repo.full_name }}
       SHA: ${{ github.sha }}
-  steps:
-    - uses: actions/checkout@v4
-    - uses: actions/setup-node@v4
-      with:
-        node-version-file: .nvmrc
-        cache: npm
-        cache-dependency-path: package.json
-    - run: tools/install-hugo.sh
-      shell: bash
-    - name: Make site 
-      run: |
-        mkdir tmp && cd tmp && set -x
-        ../tools/make-site.sh -s ${{ matrix.docsy-src }} -r $BASE_REPO -v $SHA
-      shell: bash
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version-file: .nvmrc
+          cache: npm
+          cache-dependency-path: package.json
+      - run: tools/install-hugo.sh
+        shell: bash
+      - name: Make site
+        run: |
+          mkdir tmp && cd tmp && set -x
+          ../tools/make-site.sh -s ${{ matrix.docsy-src }} -r $BASE_REPO -v $SHA
+        shell: bash
