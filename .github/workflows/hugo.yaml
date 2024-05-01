@@ -41,6 +41,11 @@ jobs:
           extended: true
       - name: Install Dart Sass
         run: sudo snap install dart-sass
+      - name: Install autoprefixer
+        run: npm install --save-dev autoprefixer
+      - name: Install postcss-cli 
+        run: npm install --save-dev postcss-cli
+
       - name: Checkout
         uses: actions/checkout@v4
         with:
