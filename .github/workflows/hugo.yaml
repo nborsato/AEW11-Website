@@ -28,7 +28,19 @@ defaults:
     shell: bash
 
 jobs:
-  - steps:
+  new-site:
+    runs-on: ${{ matrix.os }}
+    strategy:
+      fail-fast: false
+      matrix:
+        os: [windows-latest, ubuntu-latest]
+        docsy-src: [NPM, HUGO_MODULE]
+    env:
+      BASE_REPO: ${{ github.repository }}
+      BRANCH: ${{ github.head_ref }}
+      PR_REPO: ${{ github.event.pull_request.head.repo.full_name }}
+      SHA: ${{ github.sha }}
+  steps:
     - uses: actions/checkout@v4
     - uses: actions/setup-node@v4
       with:
