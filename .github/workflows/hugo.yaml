@@ -45,7 +45,7 @@ jobs:
       - name: Install postcss 
         run: npm install -D postcss
       - name: install npx
-        run: npm install -g npx --force
+        run: npm install -g npx
       - name: install tailwindcss
         run: npm install tailwindcss@latest
       - name: Install Dart Sass
