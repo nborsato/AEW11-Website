@@ -10,7 +10,7 @@ Stars in Queensland, following on the heels of Stars in Sydney, is an Australian
 
 The AEW conference series brings together Australian researchers working on exoplanets and related topics from both observational and theoretical perspectives.The workshop will cover all areas in observational, theoretical, and experimental exoplanetary science: we welcome talks on exoplanet surveys and discovery, atmospheric observation and theory, orbital dynamics, protoplanetary discs and planet formation, planetary host stars and star-planet interactions, and solar system planetary science.
 
-Registration is free, and you are welcome to attend one or both conferences. Participants are encouraged to give a short presentation on their recent research & research facilities. There will also be an opportunity to discuss strategies for increasing linkages and collaborations to expand this critical research area in the future.
+Registration is free, and you are welcome to attend one or both conferences. Participants are encouraged to give a short presentation on their recent research & research facilities. There will also be an opportunity to discuss strategies for increasing linkages and collaborations to expand this critical research area in the future. 
 
 <font size="+4"><a href="https://bsky.app/profile/fringetracker.bsky.social" style="color: white;"><i class="fa-brands fa-bluesky"></i></a> 
 <a href="https://twitter.com/fringetracker" style="color: white;"><i class="fa-brands fa-twitter"></i></a> 
