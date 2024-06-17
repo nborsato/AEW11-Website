@@ -4,7 +4,7 @@ title: Stars in Brisbane & Australian Exoplanet Workshop X
 
 {{% blocks/cover title="Stars in Brisbane & Australian Exoplanet Workshop X" image_anchor="top" height="full" %}}
 
-The Stars in Brisbane workshop will be held at the **University of Queensland** from 4-6 November 2024, back to back with the 10th Australian Exoplanet Workshop from 6-8 November. The 6th will be a shared day with talks on star-planet crossover science and the conference dinner. 
+The Stars in Brisbane workshop will be held in Brisbane from 4-6 November 2024, back to back with the 10th Australian Exoplanet Workshop from 6-8 November. The 6th will be a shared day with talks on star-planet crossover science and the conference dinner. 
 
 Stars in Brisbane, is the 4th workshop in the “Stars in …” series,  following on from Stars in Melbourne. The series is designed as an Australian conference covering all areas of stellar physics, encompassing theory and observation in asteroseismology, stellar activity, stellar evolution, clusters and population studies, and the physics of evolved stars and supernovae.
 
