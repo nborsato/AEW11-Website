@@ -12,9 +12,8 @@ The AEW conference series brings together Australian researchers working on exop
 
 Registration is free, and you are welcome to attend one or both conferences. Participants are encouraged to give a short presentation on their recent research & research facilities. There will also be an opportunity to discuss strategies for increasing linkages and collaborations to expand this critical research area in the future and for greater connections between stars and planet research.
 
-<font size="+4"><a href="https://bsky.app/profile/fringetracker.bsky.social" style="color: white;"><i class="fa-brands fa-bluesky"></i></a> 
-<a href="https://twitter.com/fringetracker" style="color: white;"><i class="fa-brands fa-twitter"></i></a> 
-<a href="https://github.com/aew10" style="color: white;"><i class="fa-brands fa-github"></i></a> 
+<a href="https://bsky.app/profile/exoplanets.au" style="color: white;"><i class="fa-brands fa-bluesky"></i></a> 
+<a href="https://github.com/aew10/website" style="color: white;"><i class="fa-brands fa-github"></i></a> 
 </font>
 
 
