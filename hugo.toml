@@ -1,5 +1,5 @@
 baseURL = "https://exoplanets.au/"
-title = "AEW10 | Stars in Queensland"
+title = "Stars in Brisbane | AEWX"
 
 # Language settings
 contentDir = "content/en"
@@ -61,7 +61,7 @@ languageName ="English"
 # Weight used for sorting.
 weight = 1
 [languages.en.params]
-title = "Australian Exoplanet Workshop 10"
+title = "Stars in Brisbane | Australian Exoplanet Workshop X"
 description = "Brisbane, Queensland | November 6-8"
 
 
@@ -165,20 +165,15 @@ enable = false
 [params.links]
 # End user relevant links. These will show up on left side of footer and in the community page if you have one.
 [[params.links.developer]]
-  name ="Twitter"
-  url = "https://twitter.com/fringetracker"
-  icon = "fab fa-twitter"
+  name ="BlueSky"
+  url = "https://bsky.app/profile/exoplanets.au"
+  icon = "fab fa-bluesky"
   desc = "Follow us on Twitter!"
 [[params.links.developer]]
   name = "GitHub"
   url = "https://github.com/aew10/website"
   icon = "fab fa-github"
   desc = "Website template"
-[[params.links.developer]]
-  name = "Slack"
-  url = "https://example.org/slack"
-  icon = "fab fa-slack"
-  desc = "Chat with other project developers"
 
 # hugo module configuration
 

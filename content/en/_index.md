@@ -1,16 +1,16 @@
 ---
-title: Australian Exoplanet Workshop 10 & Stars in Queensland
+title: Stars in Brisbane & Australian Exoplanet Workshop X
 ---
 
-{{% blocks/cover title="Australian Exoplanet Workshop 10 & Stars in Queensland" image_anchor="top" height="full" %}}
+{{% blocks/cover title="Stars in Brisbane & Australian Exoplanet Workshop X" image_anchor="top" height="full" %}}
 
-The Stars in Queensland workshop will be held at the **University of Queensland** from 4-6 November 2024, back to back with the 10th Australian Exoplanet Workshop from 6-8 November. The 6th will be a shared day with talks on star-planet crossover science and the conference dinner. 
+The Stars in Brisbane workshop will be held at the **University of Queensland** from 4-6 November 2024, back to back with the 10th Australian Exoplanet Workshop from 6-8 November. The 6th will be a shared day with talks on star-planet crossover science and the conference dinner. 
 
-Stars in Queensland, following on the heels of Stars in Sydney, is an Australian conference covering all areas of stellar physics: asteroseismology, stellar activity, stellar evolution, and the physics of evolved stars and supernovae, encompassing theory and observation.
+Stars in Brisbane, is the 4th workshop in the “Stars in …” series,  following on from Stars in Melbourne. The series is designed as an Australian conference covering all areas of stellar physics, encompassing theory and observation in asteroseismology, stellar activity, stellar evolution, clusters and population studies, and the physics of evolved stars and supernovae.
 
 The AEW conference series brings together Australian researchers working on exoplanets and related topics from both observational and theoretical perspectives.The workshop will cover all areas in observational, theoretical, and experimental exoplanetary science: we welcome talks on exoplanet surveys and discovery, atmospheric observation and theory, orbital dynamics, protoplanetary discs and planet formation, planetary host stars and star-planet interactions, and solar system planetary science.
 
-Registration is free, and you are welcome to attend one or both conferences. Participants are encouraged to give a short presentation on their recent research & research facilities. There will also be an opportunity to discuss strategies for increasing linkages and collaborations to expand this critical research area in the future. 
+Registration is free, and you are welcome to attend one or both conferences. Participants are encouraged to give a short presentation on their recent research & research facilities. There will also be an opportunity to discuss strategies for increasing linkages and collaborations to expand this critical research area in the future and for greater connections between stars and planet research.
 
 <font size="+4"><a href="https://bsky.app/profile/fringetracker.bsky.social" style="color: white;"><i class="fa-brands fa-bluesky"></i></a> 
 <a href="https://twitter.com/fringetracker" style="color: white;"><i class="fa-brands fa-twitter"></i></a> 
