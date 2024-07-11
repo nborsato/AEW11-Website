@@ -6,11 +6,13 @@ title: Stars in Brisbane & Australian Exoplanet Workshop X
 
 The Stars in Brisbane workshop will be held in Brisbane from 4-6 November 2024, back to back with the 10th Australian Exoplanet Workshop from 6-8 November. The 6th will be a shared day with talks on star-planet crossover science and the conference dinner. 
 
-Stars in Brisbane, is the 4th workshop in the “Stars in …” series,  following on from Stars in Melbourne. The series is designed as an Australian conference covering all areas of stellar physics, encompassing theory and observation in asteroseismology, stellar activity, stellar evolution, clusters and population studies, and the physics of evolved stars and supernovae.
+Stars in Brisbane is the 4th workshop in the “Stars in …” series, following on from Stars in Melbourne. The series is designed as an Australian conference covering all areas of stellar physics, encompassing theory and observation in asteroseismology, stellar activity, stellar evolution, clusters and population studies, and the physics of evolved stars and supernovae.
 
 The AEW conference series brings together Australian researchers working on exoplanets and related topics from both observational and theoretical perspectives. The workshop will cover all areas in observational, theoretical, and experimental exoplanetary science: we welcome talks on exoplanet surveys and discovery, atmospheric observation and theory, orbital dynamics, protoplanetary discs and planet formation, planetary host stars and star-planet interactions, and solar system planetary science.
 
 Registration is free, and you are welcome to attend one or both conferences. Participants are encouraged to give a short presentation on their recent research & research facilities. There will also be an opportunity to discuss strategies for increasing linkages and collaborations to expand this critical research area in the future and for greater connections between stars and planet research.
+
+The venue will be the University of Southern Queensland campus in Springfield, Queensland - in suburban Brisbane. 
 
 <a href="https://bsky.app/profile/exoplanets.au" style="color: white;"><i class="fa-brands fa-bluesky"></i></a> 
 <a href="https://github.com/aew10/website" style="color: white;"><i class="fa-brands fa-github"></i></a> 
