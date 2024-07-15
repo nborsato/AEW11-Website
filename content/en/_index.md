@@ -47,6 +47,8 @@ Belinda Nicholson (UniSQ)
 {{% blocks/feature icon="fa-solid fa-building-columns" title="LOC" %}}
 Belinda Nicholson (UniSQ; Chair)<br>
 Shrishmoy Ray (UQ)<br>
+Shashank Dholakia (UQ)<br>
+Shishir Dholakia (UniSQ)
 {{% /blocks/feature %}}
 
 {{% /blocks/section %}}
