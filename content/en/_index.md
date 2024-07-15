@@ -31,7 +31,8 @@ Orsola de Marco (Macquarie; Chair)<br>
 Melissa Ness (ANU)<br>
 Belinda Nicholson (UniSQ)<br>
 Barnali Das (CSIRO) <br>
-Simon Murphy (UniSQ)
+Simon Murphy (UniSQ) <br>
+Belinda Nicholson (UniSQ)
 {{% /blocks/feature %}}
 
 {{% blocks/feature icon="fa-earth-oceania" title="Exoplanets SOC" %}}
@@ -39,7 +40,8 @@ Benjamin Pope (UQ; Chair)<br>
 Michele Bannister (Canterbury)<br>
 Laura Driessen (Sydney)<br>
 Daniel Price (Monash)<br>
-Tom Evans-Soma (Newcastle)
+Tom Evans-Soma (Newcastle)<br>
+Belinda Nicholson (UniSQ)
 {{% /blocks/feature %}}
 
 {{% blocks/feature icon="fa-solid fa-building-columns" title="LOC" %}}
