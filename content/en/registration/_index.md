@@ -9,7 +9,7 @@ text-align: justify
 
 Conference registration is free for both conferences, for which you can register separately or jointly. 
 
-Register [here](https://forms.office.com/r/qd1pAFTk9f) at your earliest convenience. Abstract submission will be via a separate link emailed to registered participants.
+Register [here](https://forms.gle/xau2QyM2C39sUh1x9) at your earliest convenience. Abstract submission will be via a separate link emailed to registered participants.
 
 ## Key dates
  
