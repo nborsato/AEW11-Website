@@ -14,7 +14,7 @@ Register [here](https://forms.gle/xau2QyM2C39sUh1x9) at your earliest convenienc
 ## Key dates
  
 
-Registration deadline: 1 August
+Registration deadline (extended!): 16 August
 
 Abstract submission: 1 September 
 
