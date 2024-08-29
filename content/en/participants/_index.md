@@ -14,6 +14,8 @@ List of participants:
 
 {{% blocks/feature icon="fa-solid fa-star"%}}
 
+Tania Ahmed
+
 Jasmine Anderson-Baldwin
 
 Kateryna Andrych
@@ -24,13 +26,21 @@ Jeremy Bailey
 
 Adithya Balasubramaniam
 
+Holger Baumgardt
+
 Jean-Philippe Beaulieu
 
 Tim Bedding
 
+Hecsari Bello Martinez
+
 Sakhee Bhure
 
 Nicholas Borsato
+
+Emma Brown
+
+Simon Campbell
 
 John Bray
 
@@ -46,9 +56,13 @@ Alexander Csukai
 
 Taïssa Danilovich
 
+Carolyn Doherty
+
 Barnali Das
 
 Pradosh Barun Das
+
+Ivey Davis
 
 Richard de Grijs
 
@@ -64,14 +78,15 @@ Tom Evans-Soma
 
 Tyler Fairnington
 
+Chelsea Huang
 
 Evgeni Grishin
 
 Iain Hammond
-
 {{% /blocks/feature %}}
 
 {{% blocks/feature icon="fa-solid fa-star"%}}
+
 
 Caitlyn Hardiman
 
@@ -79,8 +94,13 @@ Rachel Harrison
 
 Thomas Hilder
 
+Diya Kumar
+
 Jonti Horner
 
+Ben Lowe
+
+Stephen Marsden
 
 Jarrod Hurley
 
@@ -90,7 +110,9 @@ Stephen Kane
 
 Amanda Karakas
 
-Harmeen kaur
+Harmeen Kaur
+
+Maksym Mohorian
 
 Fan Liu
 
@@ -98,9 +120,9 @@ Sarah Martell
 
 Kayla Martin
 
-Hugh McDougall
+Hugh Mcdougall
 
-Brendan McKee
+Brendan Mckee
 
 Priyashkumar Mistry
 
@@ -120,30 +142,49 @@ Aldo Mura Guzmán
 
 Simon Murphy
 
+
+Adam Rains
+
 Tara Murphy
+
+Stephen Neilson
 
 Jack Nibbs
 
 Belinda Nicholson
 
 Barnaby Norris
+
+Christophe Pinte
+
 {{% /blocks/feature %}}
 
 {{% blocks/feature icon="fa-solid fa-star"%}}
 
-Christophe Pinte
+John Seach
 
 Grace Piroscia
 
 Thomas Plunkett
 
+
+Benjamin Pope
+
+Katelyn Smith
+
+Patryk Sofia Lykawka
+
 Daniel Price
 
 Shrishmoy Ray
 
+Erica Thygesen
+
 Natalia Rektsini
 
 Sean Richards
+
+Sydney Vach
 
 Nicolas Rodriguez-Segovia
 
@@ -158,6 +199,8 @@ Megha Sharma
 Han Shen 
 
 Eckhart Spalding
+
+George Zhou
 
 Dennis Stello
 
@@ -181,11 +224,14 @@ Ryan White
 
 Benjamin Wilcock
 
+Raquel Salmeron
+
 Jhon Yana Galarza
 
 Daniel Zucker
 
 {{% /blocks/feature %}}
+
 
 
 {{< /blocks/section >}}
