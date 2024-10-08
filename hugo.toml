@@ -1,5 +1,5 @@
 baseURL = "https://exoplanets.au/"
-title = "Stars in Brisbane | AEWX"
+title = "Stars in Brisbane | AEW10"
 
 # Language settings
 contentDir = "content/en"
@@ -62,7 +62,7 @@ languageName ="English"
 weight = 1
 [languages.en.params]
 title = "Stars in Brisbane | Australian Exoplanet Workshop X"
-description = "Brisbane, Queensland | November 6-8"
+description = "Brisbane, Queensland | November 4-8"
 
 
 [markup]
