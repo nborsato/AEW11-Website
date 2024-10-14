@@ -30,8 +30,6 @@ Holger Baumgardt
 
 Jean-Philippe Beaulieu
 
-Tim Bedding
-
 Hecsari Bello Martinez
 
 Sakhee Bhure
