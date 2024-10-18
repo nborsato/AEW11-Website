@@ -14,10 +14,10 @@ date: 2024-10-08
 | 10:30 | [Ana Lourdes Juarez Garcia](speakers/ana-lourdes-juarez-garcia/_index.md) | [Pradosh Das](speakers/pradosh-das/_index.md) | [Yuzhe Song](speakers/yuzhe-song/_index.md) |
 | 10:45 | [Ryan White](speakers/ryan-white/_index.md) | [Sarah Martell](speakers/sarah-martell/_index.md) | [Alexander Venner](speakers/alexander-venner/_index.md) |
 | 11:00 | Coffee | Coffee | Coffee |
-| 11:30 | [John Bray](speakers/john-bray/_index.md) | [Jacinda Webb](speakers/jacinda-webb/_index.md) | [Brad Carter](speakers/brad-carter/_index.md) |
-| 11:45 | [Alex Wallace](speakers/alex-wallace/_index.md) | [Han Shen](speakers/han-shen/_index.md) | " " |
-| 12 | [Evgeni Grishin](speakers/evgeni-grishin/_index.md) | [Daniel Zucker](speakers/daniel-zucker/_index.md) | [Emma Brown](speakers/emma-brown/_index.md) |
-| 12:15 | [Nicolas Rodriguez-Segovia](speakers/nicolas-rodriguez-segovia/_index.md) | [Richard de Grijs](speakers/richard-de-grijs/_index.md) | [Ivey Davis](speakers/ivey-davis/_index.md) |
+| 11:30 | [John Bray](speakers/john-bray/_index.md) | [Han Shen](speakers/han-shen/_index.md)  | [Brad Carter](speakers/brad-carter/_index.md) |
+| 11:45 | [Alex Wallace](speakers/alex-wallace/_index.md) | [Daniel Zucker](speakers/daniel-zucker/_index.md) | " " |
+| 12 | [Evgeni Grishin](speakers/evgeni-grishin/_index.md) | [Richard de Grijs](speakers/richard-de-grijs/_index.md) | [Emma Brown](speakers/emma-brown/_index.md) |
+| 12:15 | [Nicolas Rodriguez-Segovia](speakers/nicolas-rodriguez-segovia/_index.md) | [Jacinda Webb](speakers/jacinda-webb/_index.md) | [Ivey Davis](speakers/ivey-davis/_index.md) |
 | 12:30 | Lunch | Lunch | Lunch |
 | 2:00 | [Devika Kamath](speakers/devika-kamath/_index.md) | [Anuj Gautam](speakers/anuj-gautam/_index.md) | [Maksym Mohorian](speakers/maksym-mohorian/_index.md) |
 | 2:15 | " " | [May Gade Pedersen](speakers/may-gade-pedersen/_index.md) | [Stephen Neilson](speakers/stephen-neilson/_index.md) |
