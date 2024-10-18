@@ -3,7 +3,7 @@ title: Location
 menu: {main: {weight: 30}}
 ---
 
-{{% blocks/cover title="Location - Test" image_anchor="top" height="full" %}}
+{{% blocks/cover title="Location" image_anchor="top" height="full" %}}
 
 Stars and AEWX will both be held at the **University of Southern Queensland** [campus in Springfield](https://maps.app.goo.gl/b7dq5tBz2wBTcY5N7), in suburban Brisbane. 
 

@@ -22,7 +22,7 @@ date: 2024-10-08
 | 2:00 | [Devika Kamath](speakers/devika-kamath/_index.md) | [Anuj Gautam](speakers/anuj-gautam/_index.md) | [Maksym Mohorian](speakers/maksym-mohorian/_index.md) |
 | 2:15 | " " | [May Gade Pedersen](speakers/may-gade-pedersen/_index.md) | [Stephen Neilson](speakers/stephen-neilson/_index.md) |
 | 2:30 | [Chunliang Mu](speakers/chunliang-mu/_index.md) | [Dennis Stello](speakers/dennis-stello/_index.md) | [Erica Thygesen](speakers/erica-thygesen/_index.md) |
-| 2:45 | [Jack Nibbs](speakers/jack-nibbs/_index.md) | [Laura Driessen](speakers/laura-driessen/_index.md) | |
+| 2:45 | [Jack Nibbs](speakers/jack-nibbs/_index.md) | [Laura Driessen](speakers/laura-driessen/_index.md) | [John Bray](speakers/john-bray2/_index.md) |
 | 3:00 | [Kayla Martin](speakers/kayla-martin/_index.md) | "  "| [ASA Chapter Discussion](speakers/asa-chapter/_index.md)|
 | 3:15 | [Mark Walker](speakers/mark-walker/_index.md) | [Deepak Chahal](speakers/deepak-chahal/_index.md) | " "|
 | 3:30 | Coffee | Coffee | Coffee |
