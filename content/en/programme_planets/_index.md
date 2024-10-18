@@ -22,9 +22,9 @@ date: 2024-10-08
 | 2:30 | [Patryk Sofia Lykawka](speakers/patryk-sofia-lykawka/_index.md) | [Rachel Harrison](speakers/rachel-harrison/_index.md) |
 | 2:50 | [Jeremy Bailey](speakers/jeremy-bailey/_index.md) | [Jonti Horner](speakers/jonti-horner/_index.md) |
 | 3:10 | [Jean-Philippe Beaulieu](speakers/jean-philippe-beaulieu/_index.md) | [Priyashkumar Mistry](speakers/priyashkumar-mistry/_index.md) |
-| 3:30 | [Stephanie Rossini-Bryson](speakers/stephanie-rossini-bryson/_index.md) | [Grace Piroscia](speakers/grace-piroscia/_index.md) |
-| 3:50 | Coffee | Coffee |
-| 4:30 | [Daniel Price](speakers/daniel-price/_index.md) | [Natalia Rektsini](speakers/natalia-rektsini/_index.md) |
-| 4:50 | [Yuzhe Song](speakers/yuzhe-song/_index.md) | [Thomas Plunkett](speakers/thomas-plunkett/_index.md) |
+| 3:30 | Coffee | Coffee |
+| 4:00 | [Stephanie Rossini-Bryson](speakers/stephanie-rossini-bryson/_index.md) | [Grace Piroscia](speakers/grace-piroscia/_index.md) |
+| 4:20 | [Daniel Price](speakers/daniel-price/_index.md) | [Natalia Rektsini](speakers/natalia-rektsini/_index.md) |
+| 4:40 | [Yuzhe Song](speakers/yuzhe-song/_index.md) | [Thomas Plunkett](speakers/thomas-plunkett/_index.md) |
 
 {{% /blocks/cover %}}
