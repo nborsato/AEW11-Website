@@ -23,10 +23,10 @@ date: 2024-10-08
 | 2:15 | " " | [May Gade Pedersen](speakers/may-gade-pedersen/_index.md) | [Stephen Neilson](speakers/stephen-neilson/_index.md) |
 | 2:30 | [Chunliang Mu](speakers/chunliang-mu/_index.md) | [Dennis Stello](speakers/dennis-stello/_index.md) | [Erica Thygesen](speakers/erica-thygesen/_index.md) |
 | 2:45 | [Jack Nibbs](speakers/jack-nibbs/_index.md) | [Laura Driessen](speakers/laura-driessen/_index.md) | [John Bray](speakers/john-bray2/_index.md) |
-| 3:00 | [Kayla Martin](speakers/kayla-martin/_index.md) | "  "| [ASA Chapter Discussion](speakers/asa-chapter/_index.md)|
-| 3:15 | [Mark Walker](speakers/mark-walker/_index.md) | [Deepak Chahal](speakers/deepak-chahal/_index.md) | " "|
+| 3:00 | [Kayla Martin](speakers/kayla-martin/_index.md) | "  "| [Belinda Nicholson](speakers/tara-murphy/_index.md) |
+| 3:15 | [Mark Walker](speakers/mark-walker/_index.md) | [Deepak Chahal](speakers/deepak-chahal/_index.md) | |
 | 3:30 | Coffee | Coffee | Coffee |
-| 4:00 | [Meghna Menon](speakers/meghna-menon/_index.md) | [Tara Murphy](speakers/tara-murphy/_index.md) | Free Afternoon |
+| 4:00 | [Meghna Menon](speakers/meghna-menon/_index.md) | [Tara Murphy](speakers/tara-murphy/_index.md) | [ASA Chapter Discussion](speakers/asa-chapter/_index.md) |
 | 4:30 | [Taissa Danilovich](speakers/taissa-danilovich/_index.md) | [Katelyn Smith](speakers/katelyn-smith/_index.md) | "|
 | 4:45 | [Alexander Csukai](speakers/alexander-csukai/_index.md) | [Barnali Das](speakers/barnali-das/_index.md) |"|
 | 5:00 | [Amanda Karakas](speakers/amanda-karakas/_index.md) | [Conaire Deagan](speakers/conaire-deagan/_index.md) | "|
