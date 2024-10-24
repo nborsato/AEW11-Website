@@ -18,7 +18,7 @@ date: 2024-10-08
 | 12:10 | [Sakhee Bhure](speakers/sakhee-bhure/_index.md) | [Max Charles](speakers/max-charles/_index.md) |
 | 12:30 | [Emma Nabbie](speakers/emma-nabbie/_index.md) | [Brendan McKee](speakers/brendan-mckee/_index.md) |
 | 12:50 | Lunch | Lunch |
-| 12:50 | [Thomas Hilder](speakers/thomas-hilder/_index.md) | [Caitlyn Hardiman](speakers/caitlyn-hardiman/_index.md) |
+| 2:10 | [Thomas Hilder](speakers/thomas-hilder/_index.md) | [Caitlyn Hardiman](speakers/caitlyn-hardiman/_index.md) |
 | 2:30 | [Patryk Sofia Lykawka](speakers/patryk-sofia-lykawka/_index.md) | [Alex Venner](speakers/alex-venner/_index.md) |
 | 2:50 | [Jeremy Bailey](speakers/jeremy-bailey/_index.md) | [Jonti Horner](speakers/jonti-horner/_index.md) |
 | 3:10 | [Stephanie Rossini-Bryson](speakers/stephanie-rossini-bryson/_index.md) | [Priyashkumar Mistry](speakers/priyashkumar-mistry/_index.md) |
