@@ -1,0 +1,13 @@
+---
+title: "Maksym Mohorian"
+date: 2024-10-08
+---
+
+{{% blocks/cover title="Maksym Mohorian" image_anchor="top" height="full" %}}
+
+## Chemical depletion in evolved binaries with second-generation protoplanetary discs
+
+Binary interaction significantly influences the chemical evolution of low- and intermediate-mass (LIM) stars, a phenomenon integral to our understanding of evolved stars. Within this framework, post-AGB/post-RGB binary stars (of A, F, G, and K spectral types) with circumbinary discs exhibit intriguing photospheric chemical depletion, notably marked by a depletion of refractory elements (e.g., Al, Fe, Ti, s-process elements) relative to volatile elements (e.g., S, Zn, Na, K). The underlying mechanism driving this depletion remains not yet fully understood, but it likely stems from the chemical fractionation of gas and dust within the circumbinary disc, followed by the re-accretion of pristine gas onto the primary star. Recent observational studies have shown that these circumbinary discs are similar to the protoplanetary discs (PPDs) around young stars in terms of infrared excess, keplerian rotation, and dust mineralogy. Notably, a subset of post-AGB/post-RGB binary stars hosts “transition” discs characterised by large inner cavities similar to those observed in PPDs, suggesting the potential presence of a giant planet carving a hole in the disc. To further investigate the chemical depletion process in these targets, we conducted a detailed chemical abundance analysis of all known transition disc systems, totaling 12 in both the Galaxy and the Large Magellanic Cloud (characterised by moderate-to-high mid-infrared excess and substantial depletion efficiency [S/Ti] > 1.3 dex). We used high-resolution optical spectra from HERMES/Mercator and UVES/VLT to study how chemical depletion correlates with various parameters from both the host star (e.g., photometric, orbital, pulsational) and the disc (orientation, size, morphology). We confirmed that depletion efficiency in transition disc systems is higher than in other evolved binary stars. Additionally, we found that the derived chemical depletion patterns in our evolved binary systems are matching those observed in young planet-hosting stars and are mostly in line with those observed in interstellar medium. We also found that the pulsation period of our targets is strongly anti-correlated with the infrared luminosity produced by the circumbinary disc. In this talk, I will present these interesting highlights of our study and also the implications of our results on possible planet formation in evolved binary stars.
+
+{{% /blocks/cover %}}
+                    
