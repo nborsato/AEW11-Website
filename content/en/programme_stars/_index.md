@@ -27,9 +27,10 @@ date: 2024-10-08
 | 3:15 | [Meghna Menon](speakers/meghna-menon/_index.md) | [Deepak Chahal](speakers/deepak-chahal/_index.md) | " " |
 | 3:30 | Coffee | Coffee | Coffee |
 | 4:00 |  [Taissa Danilovich](speakers/taissa-danilovich/_index.md)| [Tara Murphy](speakers/tara-murphy/_index.md) | [Laura Venuti](speakers/laura-venuti/_index.md) |
-| 4:30 | [Alexander Csukai](speakers/alexander-csukai/_index.md) | [Katelyn Smith](speakers/katelyn-smith/_index.md) | [Ben Wilcock](speakers/ben-wilcock/_index.md)|
+| 4:15 | " " | " " | [Ben Wilcock](speakers/ben-wilcock/_index.md)|
+| 4:30 | [Alexander Csukai](speakers/alexander-csukai/_index.md) | [Katelyn Smith](speakers/katelyn-smith/_index.md) | [Jean-Philippe	Beaulieu](speakers/jean-philippe-beaulieu/_index.md)|
 | 4:45 | [Amanda Karakas](speakers/amanda-karakas/_index.md) | [Barnali Das](speakers/barnali-das/_index.md) | Space Panel Discussion|
-| 5:00 | [Harmeen Kaur](speakers/harmeen-kaur/_index.md) | [Conaire Deagan](speakers/conaire-deagan/_index.md) | Space Panel Discussion|
-| 5:15 |  | [Shishir Dholakia](speakers/shishir-dholakia/_index.md) | Space Panel Discussion|
+| 5:00 | [Harmeen Kaur](speakers/harmeen-kaur/_index.md) | [Conaire Deagan](speakers/conaire-deagan/_index.md) | " " " |
+| 5:15 |  | [Shishir Dholakia](speakers/shishir-dholakia/_index.md) | " " " |
 
 {{% /blocks/cover %}}
