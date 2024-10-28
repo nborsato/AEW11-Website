@@ -10,7 +10,7 @@ date: 2024-10-08
 | Schedule | Thursday | Friday |
 | -------- | ---------------- | ---------------- |
 | 10 |  [Ben Montet](speakers/ben-montet/_index.md) | [Stephen Kane](speakers/stephen-kane/_index.md) |
-| 10:20 | [Evgeni Grishin](speakers/evgeni-grishin/_index.md) | [Ava Morrissey](speakers/ava-morrissey/_index.md) |
+| 10:20 | [Daniel Price](speakers/daniel-price/_index.md) | [Ava Morrissey](speakers/ava-morrissey/_index.md) |
 | 10:40 | [Tyler Fairnington](speakers/tyler-fairnington/_index.md) | [Nicholas Borsato](speakers/nicholas-borsato/_index.md) |
 | 11 | Coffee | Coffee |
 | 11:30 | [Sydney Vach](speakers/sydney-vach/_index.md) | [Iain Hammond](speakers/iain-hammond/_index.md) |
@@ -25,6 +25,6 @@ date: 2024-10-08
 | 3:30 | Coffee | Coffee |
 | 4:00 | [Grace Piroscia](speakers/grace-piroscia/_index.md) | [Rachel Harrison](speakers/rachel-harrison/_index.md) |
 | 4:20 | [Natalia Rektsini](speakers/natalia-rektsini/_index.md)  | [Yuzhe Song](speakers/yuzhe-song/_index.md) |
-| 4:40 | [Thomas Plunkett](speakers/thomas-plunkett/_index.md) | [Daniel Price](speakers/daniel-price/_index.md)  |
+| 4:40 | [Thomas Plunkett](speakers/thomas-plunkett/_index.md) |  [Evgeni Grishin](speakers/evgeni-grishin/_index.md) |
 
 {{% /blocks/cover %}}
