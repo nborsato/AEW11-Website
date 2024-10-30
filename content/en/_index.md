@@ -51,3 +51,5 @@ Shishir Dholakia (UniSQ)
 {{% /blocks/feature %}}
 
 {{% /blocks/section %}}
+
+{{< image-gallery gallery_dir="/logos" >}}
