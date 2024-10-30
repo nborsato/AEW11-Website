@@ -19,17 +19,16 @@ date: 2024-10-08
 | 12 | [Evgeni Grishin](speakers/evgeni-grishin/_index.md) | [Richard de Grijs](speakers/richard-de-grijs/_index.md) | [Richard Bray](speakers/richard-bray/_index.md) |
 | 12:15 | [Nicolas Rodriguez-Segovia](speakers/nicolas-rodriguez-segovia/_index.md) | [Jacinda Webb](speakers/jacinda-webb/_index.md) | [Peter Tuthill](speakers/peter-tuthill-2/_index.md) |
 | 12:30 | Lunch | Lunch | Lunch |
-| 2:00 | [Alexander Venner](speakers/alexander-venner/_index.md) | [Anuj Gautam](speakers/anuj-gautam/_index.md) | [Stephen Neilson](speakers/stephen-neilson/_index.md) |
-| 2:15 | [Chunliang Mu](speakers/chunliang-mu/_index.md) | [May Gade Pedersen](speakers/may-gade-pedersen/_index.md) | [Erica Thygesen](speakers/erica-thygesen/_index.md) |
+| 2:00 | [Alexander Venner](speakers/alexander-venner/_index.md) | [Anuj Gautam](speakers/anuj-gautam/_index.md) | [Laura Driessen](speakers/laura-driessen/_index.md) |
+| 2:15 | [Chunliang Mu](speakers/chunliang-mu/_index.md) | [May Gade Pedersen](speakers/may-gade-pedersen/_index.md) | " " |
 | 2:30 | [Jack Nibbs](speakers/jack-nibbs/_index.md) | [Dennis Stello](speakers/dennis-stello/_index.md) | [Belinda Nicholson](speakers/belinda-nicholson/_index.md) |
-| 2:45 | [Kayla Martin](speakers/kayla-martin/_index.md) | [Laura Driessen](speakers/laura-driessen/_index.md) | [Ivey Davis](speakers/ivey-davis/_index.md) |
+| 2:45 | [Kayla Martin](speakers/kayla-martin/_index.md) | [Shishir Dholakia](speakers/shishir-dholakia/_index.md) | [Ivey Davis](speakers/ivey-davis/_index.md) |
 | 3:00 | [Mark Walker](speakers/mark-walker/_index.md) | [Chelsea Huang](speakers/chelsea-huang/_index.md) | [ASA Chapter Discussion](speakers/asa-chapter/_index.md) |
 | 3:15 | [Meghna Menon](speakers/meghna-menon/_index.md) | [Deepak Chahal](speakers/deepak-chahal/_index.md) | " " |
 | 3:30 | Coffee | Coffee | Coffee |
 | 4:00 |  [Taissa Danilovich](speakers/taissa-danilovich/_index.md)| [Tara Murphy](speakers/tara-murphy/_index.md) | [Laura Venuti](speakers/laura-venuti/_index.md) |
 | 4:15 | [Alexander Csukai](speakers/alexander-csukai/_index.md) | [Katelyn Smith](speakers/katelyn-smith/_index.md) | [Ben Wilcock](speakers/ben-wilcock/_index.md)|
-| 4:30 | [Amanda Karakas](speakers/amanda-karakas/_index.md) | [Barnali Das](speakers/barnali-das/_index.md) | [Jean-Philippe	Beaulieu](speakers/jean-philippe-beaulieu/_index.md)|
+| 4:30 | [Amanda Karakas](speakers/amanda-karakas/_index.md) | [Barnali Das](speakers/barnali-das/_index.md) | [Jean-Philippe Beaulieu](speakers/jean-philippe-beaulieu/_index.md)|
 | 4:45 |  [Harmeen Kaur](speakers/harmeen-kaur/_index.md)|[Conaire Deagan](speakers/conaire-deagan/_index.md) | Space Panel Discussion|
-| 5:00 |  | [Shishir Dholakia](speakers/shishir-dholakia/_index.md) | " " " |
 
 {{% /blocks/cover %}}
