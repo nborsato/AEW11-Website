@@ -3,7 +3,7 @@ title: Logistics
 menu: {main: {weight: 30}}
 ---
 
-{{% blocks/cover title="Location" image_anchor="top" height="full" %}}
+{{% blocks/mycover title="Location" image_anchor="top" height="full" %}}
 
 ## Venue
 
@@ -34,5 +34,4 @@ Outside of Springfield, we recommend any of the excellent hotels in Brisbane CBD
 
 Talks will be streamed on zoom, with a zoom link to be sent out to registered participants shortly before the workshop. Online viewers will not be able to ask questions via zoom, but may do so via the workshop slack workspace.
 
-
-{{% /blocks/cover %}}
+{{% /blocks/mycover %}}

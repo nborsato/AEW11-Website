@@ -5,7 +5,7 @@ text-align: justify
 ---
 
 
-{{% blocks/cover title="Registration" image_anchor="top" height="full" %}}
+{{% blocks/mycover title="Registration" image_anchor="top" height="full" %}}
 
 Conference registration is free for both conferences, for which you can register separately or jointly. 
 
@@ -23,5 +23,5 @@ Abstract submission: 1 September
 Programme finalised: 1 October
 
 
-{{% /blocks/cover %}}
+{{% /blocks/mycover %}}
 

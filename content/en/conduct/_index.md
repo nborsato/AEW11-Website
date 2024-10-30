@@ -3,7 +3,7 @@ title: Code of Conduct
 menu: {main: {weight: 30}}
 ---
 
-{{% blocks/cover title="Code of Conduct" image_anchor="top" height="full" %}}
+{{% blocks/mycover title="Code of Conduct" image_anchor="top" height="full" %}}
 
 It is the policy of these conferences that all participants are able to enjoy an environment that is free from discrimination and harassment. We are therefore committed to making its meetings and events productive and enjoyable for everyone, regardless of race, gender, sexual orientation, disability, physical appearance, body size, nationality or religion. We will not tolerate harassment in any form during conference activities. This code of conduct applies to all participants of the Stars in Brisbane and Australian Exoplanet Workshop meetings. 
 
@@ -19,4 +19,4 @@ Individuals engaging in behavior prohibited by this policy as well as those maki
 
 This policy is adapted from the [common policy of ASA meetings](https://asa.astronomy.org.au/membership/conduct-and-ethics/).
 
-{{% /blocks/cover %}}
+{{% /blocks/mycover %}}
