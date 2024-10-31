@@ -25,7 +25,7 @@ date: 2024-10-08
 | 2:30 | [Patryk Sofia Lykawka](speakers/patryk-sofia-lykawka/_index.md) | [Jonti Horner](speakers/jonti-horner/_index.md) |
 | 2:45 | [Jeremy Bailey](speakers/jeremy-bailey/_index.md) | [Erica Thygesen](speakers/erica-thygesen/_index.md) |
 | 3:00 | [Caitlyn Hardiman](speakers/caitlyn-hardiman/_index.md) | [Jie Yu](speakers/jie-yu/_index.md)  |
-| 3:15 | [Stephen Neilson](speakers/stephen-neilson/_index.md) |  |
+| 3:15 | [Stephen Neilson](speakers/stephen-neilson/_index.md) | [Tom Evans-Soma](speakers/tom-evans-soma/_index.md) |
 | 3:30 | Coffee | End of Conference |
 | 4:00 | [Grace Piroscia](speakers/grace-piroscia/_index.md) | |
 | 4:15 | [Natalia Rektsini](speakers/natalia-rektsini/_index.md)  |  |
