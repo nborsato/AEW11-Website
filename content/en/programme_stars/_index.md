@@ -16,7 +16,7 @@ date: 2024-10-08
 | 10:00 | [Jeremy Bailey](speakers/jeremy-bailey/_index.md) | [Aditya Balasubramaniam](speakers/adithya-balasubramaniam/_index.md) (S) | [Maksym Mohorian](speakers/maksym-mohorian/_index.md) (S) |
 | 10:15 | [Peter Tuthill](speakers/peter-tuthill/_index.md) | [Courtney Crawford](speakers/courtney-crawford/_index.md) | [Tania Ahmed](speakers/tania-ahmed/_index.md) (S) |
 | 10:30 | [Ana Juarez](speakers/ana-lourdes-juarez-garcia/_index.md) (S) | [Pradosh Das](speakers/pradosh-das/_index.md) (S) | [Yuzhe Song](speakers/yuzhe-song/_index.md) |
-| 10:45 | [Ryan White](speakers/ryan-white/_index.md) (S) | [Sarah Martell](speakers/sarah-martell/_index.md) | [Emma Brown](speakers/emma-brown/_index.md) (*) |
+| 10:45 | [Ryan White](speakers/ryan-white/_index.md) (S) | [Sarah Martell](speakers/sarah-martell/_index.md) | [Emma Brown](speakers/emma-brown/_index.md) |
 | 11:00 | Coffee | Coffee | Coffee |
 | 11:30 | [John Bray](speakers/john-bray/_index.md) | [Han Shen](speakers/han-shen/_index.md) (S) | [Brad Carter](speakers/brad-carter/_index.md) |
 | 11:45 | [Alex Wallace](speakers/alex-wallace/_index.md) | [Dan Zucker](speakers/daniel-zucker/_index.md) | [Chelsea Huang](speakers/chelsea-huang/_index.md) |
