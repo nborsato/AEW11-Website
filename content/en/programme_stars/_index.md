@@ -24,7 +24,7 @@ date: 2024-10-08
 | 12:15 | [Nicolas Rodrigues-Segovia](speakers/nicolas-rodriguez-segovia/_index.md) (S) | [Jacinta Webb](speakers/jacinta-webb/_index.md) (S) | [Peter Tuthill](speakers/peter-tuthill/_index.md) |
 | 12:30 | Lunch | Lunch | Lunch |
 | | Chair: Tara Murphy | Chair: Evgeni Grishin | Chair: Taissa Danilovich |
-| 2:00 | [Alexander Venner](speakers/alexander-venner/_index.md) (S) | [Anuj Gautam](speakers/anuj-gautam/_index.md) (S) | [John Bray](speakers/john-bray/_index.md) |
+| 2:00 | [Alexander Venner](speakers/alexander-venner/_index.md) (S) | [Anuj Gautam](speakers/anuj-gautam/_index.md) (S) | [John Bray](speakers/john-bray2/_index.md) |
 | 2:15 | [Chunliang Mu](speakers/chunliang-mu/_index.md) (S) | [May Gade Petersen](speakers/may-gade-pedersen/_index.md) | [Erica Thygesen](speakers/erica-thygesen/_index.md) (S) |
 | 2:30 | [Jack Nibbs](speakers/jack-nibbs/_index.md) (S) | [Dennis Stello](speakers/dennis-stello/_index.md) | [Stephen Neilson](speakers/stephen-neilson/_index.md) (S) |
 | 2:45 | [Kayla Martin](speakers/kayla-martin/_index.md) (S) | [Laura Driessen](speakers/laura-driessen/_index.md) | [Ivey Davis](speakers/ivey-davis/_index.md) (S) |

@@ -27,7 +27,7 @@ date: 2024-10-08
 | 2:15 | [Thomas Hilder](speakers/thomas-hilder/_index.md) | [Max Charles](speakers/max-charles/_index.md) |
 | 2:30 | [Patryk Sofia Lykawka](speakers/patryk-sofia-lykawka/_index.md) | [Jonti Horner](speakers/jonti-horner/_index.md) |
 | 2:45 | [Jeremy Bailey](speakers/jeremy-bailey/_index.md) | [Daniel Price](speakers/daniel-price/_index.md) |
-| 3:00 | [Caitlyn Hardiman](speakers/caitlyn-hardiman/_index.md) | CLOSING |
+| 3:00 | [Caitlyn Hardiman](speakers/caitlyn-hardiman/_index.md) | [Tom Evans-Soma](speakers/tom-evans-soma/_index.md) |
 | 3:15 | [Grace Piroscia](speakers/grace-piroscia/_index.md) | |
 | 3:30 | Coffee | End of Conference |
 | 4:00 | [Natalia Rektsini](speakers/natalia-rektsini/_index.md) | |
