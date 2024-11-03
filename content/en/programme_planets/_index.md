@@ -11,7 +11,7 @@ date: 2024-10-08
 | Schedule | Thursday | Friday |
 | -------- | ---------------- | ---------------- |
 | 9:55 | Announcements | Announcements |
-| | Chair: Pope | Chair: Evans-Soma |
+| | Chair: Benjamin Pope | Chair: Tom Evans-Soma |
 | 10:00 | [Ben Montet](speakers/ben-montet/_index.md) | [Stephen Kane](speakers/stephen-kane/_index.md) |
 | 10:15 | [Yuzhe Song](speakers/yuzhe-song/_index.md) | " " |
 | 10:30 | [Tyler Fairnington](speakers/tyler-fairnington/_index.md) (s) | [Ava Morrissey](speakers/ava-morrissey/_index.md) (s) |
@@ -22,7 +22,7 @@ date: 2024-10-08
 | 12:00 | [Sakhee Bhure](speakers/sakhee-bhure/_index.md) (s) | [Max Charles](speakers/max-charles/_index.md) (s)  |
 | 12:15 | [Emma Nabbie](speakers/emma-nabbie/_index.md) (s) | [Brendan McKee](speakers/brendan-mckee/_index.md) (s) |
 | 12:30 | Lunch | Lunch |
-| | Chair: Price | Chair: Driessen |
+| | Chair: Daniel Price | Chair: Laura Driessen |
 | 2:00 | [Stephanie Rossini-Bryson](speakers/stephanie-rossini-bryson/_index.md) (s) | [Rachel Harrison](speakers/rachel-harrison/_index.md) |
 | 2:15 | [Thomas Hilder](speakers/thomas-hilder/_index.md) (s) | [Tom Evans-Soma](speakers/tom-evans-soma/_index.md) |
 | 2:30 | [Patryk Sofia Lykawka](speakers/patryk-sofia-lykawka/_index.md) | [Jonti Horner](speakers/jonti-horner/_index.md) |
