@@ -31,7 +31,7 @@ date: 2024-10-08
 | 3:00 | [Mark Walker](speakers/mark-walker/_index.md) | " " | ASA Chapter Discussion |
 | 3:15 | [Megna Menon](speakers/meghna-menon/_index.md) (S) | [Deepak Chahal](speakers/deepak-chahal/_index.md) (S) | " " |
 | 3:30 | Coffee | Coffee | Coffee |
-| | Chair: Belinda Nicholson | Chair: Belinda Nicholson | Chair: Belinda Nicholson |
+| |  |  | Chair: Belinda Nicholson |
 | 4:00 | [Taissa Danilovich](speakers/taissa-danilovich/_index.md) | [Tara Murphy](speakers/tara-murphy/_index.md) | [Laura Venuti](speakers/laura-venuti/_index.md) |
 | 4:15 | [Alex Csukai](speakers/alexander-csukai/_index.md) (S) | [Katelyn Smith](speakers/katelyn-smith/_index.md) (S) | [Jean-Philippe Beaulieu](speakers/jean-philippe-beaulieu/_index.md) |
 | 4:30 | [Amanda Karakas](speakers/amanda-karakas/_index.md) | [Barnali Das](speakers/barnali-das/_index.md) | Space panel discussion |
