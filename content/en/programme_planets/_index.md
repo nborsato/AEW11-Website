@@ -13,13 +13,13 @@ date: 2024-10-08
 | 9:55 | Announcements | Announcements |
 | | Chair: Pope | Chair: Evans-Soma |
 | 10:00 | [Ben Montet](speakers/ben-montet/_index.md) | [Stephen Kane](speakers/stephen-kane/_index.md) |
-| 10:15 | [Max Charles](speakers/max-charles/_index.md) (s) | " " |
+| 10:15 | [Yuzhe Song](speakers/yuzhe-song/_index.md) | " " |
 | 10:30 | [Tyler Fairnington](speakers/tyler-fairnington/_index.md) (s) | [Ava Morrissey](speakers/ava-morrissey/_index.md) (s) |
 | 10:45 | [Evgeni Grishin](speakers/evgeni-grishin/_index.md) | [Nicholas Borsato](speakers/nicholas-borsato/_index.md) (s) |
 | 11:00 | Coffee | Coffee |
 | 11:30 | [Sydney Vach](speakers/sydney-vach/_index.md) (s) | [Iain Hammond](speakers/iain-hammond/_index.md) (s) |
 | 11:45 | [Jie Yu](speakers/jie-yu/_index.md) | [Louis Desdoigts](speakers/louis-desdoigts/_index.md) (s) |
-| 12:00 | [Sakhee Bhure](speakers/sakhee-bhure/_index.md) (s) | [Yuzhe Song](speakers/yuzhe-song/_index.md) |
+| 12:00 | [Sakhee Bhure](speakers/sakhee-bhure/_index.md) (s) | [Max Charles](speakers/max-charles/_index.md) (s)  |
 | 12:15 | [Emma Nabbie](speakers/emma-nabbie/_index.md) (s) | [Brendan McKee](speakers/brendan-mckee/_index.md) (s) |
 | 12:30 | Lunch | Lunch |
 | | Chair: Price | Chair: Driessen |
