@@ -33,6 +33,6 @@ date: 2024-10-08
 | 4:00 | [Natalia Rektsini](speakers/natalia-rektsini/_index.md) (s) | |
 | 4:15 | [Thomas Plunkett](speakers/thomas-plunkett/_index.md) (s) | |
 | 4:30 | [Priyashkumar Mistry](speakers/priyashkumar-mistry/_index.md) (s) | |
-| 5:00 | END | |
+| 5:00 | [Alex Venner](speakers/alex-venner/_index.md) (s) | |
 
 {{% /blocks/cover %}}
