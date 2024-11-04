@@ -19,7 +19,7 @@ date: 2024-10-08
 | 11:00 | Coffee | Coffee |
 | 11:30 | [Sydney Vach](speakers/sydney-vach/_index.md) (s) | [Iain Hammond](speakers/iain-hammond/_index.md) (s) |
 | 11:45 | [Jie Yu](speakers/jie-yu/_index.md) | [Louis Desdoigts](speakers/louis-desdoigts/_index.md) (s) |
-| 12:00 | [Sakhee Bhure](speakers/sakhee-bhure/_index.md) (s) | [Max Charles](speakers/max-charles/_index.md) (s)  |
+| 12:00 | [Sakhee Bhure](speakers/sakhee-bhure/_index.md) (s,o) | [Max Charles](speakers/max-charles/_index.md) (s)  |
 | 12:15 | [Emma Nabbie](speakers/emma-nabbie/_index.md) (s) | [Brendan McKee](speakers/brendan-mckee/_index.md) (s) |
 | 12:30 | Lunch | Lunch |
 | | Chair: Daniel Price | Chair: Laura Driessen |
@@ -33,6 +33,6 @@ date: 2024-10-08
 | 4:00 | [Natalia Rektsini](speakers/natalia-rektsini/_index.md) (s) | |
 | 4:15 | [Thomas Plunkett](speakers/thomas-plunkett/_index.md) (s) | |
 | 4:30 | [Priyashkumar Mistry](speakers/priyashkumar-mistry/_index.md) (s) | |
-| 5:00 | END | |
-
+| 5:00 | [Alex Venner](speakers/alex-venner/_index.md) (s) | |
+| 5:15 | END | |
 {{% /blocks/cover %}}
