@@ -12,11 +12,11 @@ date: 2024-10-08
 
 The full programme for the **Stars** stream will be released following abstract review.
 
-Please check back after **{{< param "keydates.programme" >}}** for the complete schedule of speakers and sessions.
+Please check back here soon for the full schedule of speakers and sessions.  
 
 **Key dates:**
 Registration deadline: **{{< param "keydates.registration" >}}**  
 Abstract submission: **{{< param "keydates.abstract" >}}**  
-Programme finalised: **{{< param "keydates.programme" >}}**  
+Programme finalised: **{{< param "keydates.programme" >}}**
 
 {{% /blocks/cover %}}
