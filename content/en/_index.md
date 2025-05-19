@@ -10,7 +10,7 @@ The Stars in Newcastle workshop will be held in Newcastle from 17–19 November 
 
 <div style="background-color: rgba(1, 2, 18, 0.9); padding: 2rem; border-radius: 1rem; display: inline-block;">
 
-### 📝 Registration is now open!
+### Registration is now open!
 
 Click below to register for one or both workshops.  
 Participation is free and open to all interested researchers and students.
