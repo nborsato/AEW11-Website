@@ -1,5 +1,5 @@
-baseURL = "https://exoplanets.au/"
-title = "Stars in Brisbane | AEW10"
+baseURL = "https://nborsato.github.io/AEW11-Website/"
+title = "Stars in Newcastle | AEW11"
 
 # Language settings
 contentDir = "content/en"
@@ -61,8 +61,8 @@ languageName ="English"
 # Weight used for sorting.
 weight = 1
 [languages.en.params]
-title = "Stars in Brisbane | Australian Exoplanet Workshop X"
-description = "Brisbane, Queensland | November 4-8"
+title = "Stars in Newcastle | AEW11"
+description = "Newcastle, NSW | 17–21 November 2025"
 
 
 [markup]
@@ -186,3 +186,8 @@ enable = false
   [[module.imports]]
     path = "github.com/google/docsy"
     disable = false
+
+[params.keydates]
+registration = "16 August"
+abstract = "1 September"
+programme = "1 October"
