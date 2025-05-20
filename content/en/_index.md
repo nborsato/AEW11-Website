@@ -45,16 +45,16 @@ Participation is free and open to all interested researchers and students.
 {{% blocks/section color="dark" type="row" %}}
 
 {{% blocks/feature icon="fa-star" title="Stars SOC" %}}
-Orsola de Marco (Macquarie)<br>
+Orsola de Marco (Macquarie University)<br>
 {{% /blocks/feature %}}
 
 {{% blocks/feature icon="fa-earth-oceania" title="Exoplanets SOC" %}}
-Benjamin Pope (UQ)<br>
+Benjamin Pope (Macquarie University)<br>
 {{% /blocks/feature %}}
 
 {{% blocks/feature icon="fa-solid fa-building-columns" title="LOC" %}}
-Tom Evans-Soma (Newcastle)<br>
-Nicholas Borsato (Macquarie)<br>
+Tom Evans-Soma (Newcastle University)<br>
+Nicholas Borsato (Macquarie University)<br>
 {{% /blocks/feature %}}
 
 {{% /blocks/section %}}

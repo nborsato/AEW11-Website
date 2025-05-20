@@ -1,23 +1,36 @@
 <style>
-    .image-gallery {overflow: auto; margin-left: -1%!important;}
-    .image-gallery li {float: left; display: block; margin: 0 0 1% 1%; width: 19%;}
-    .image-gallery li a {text-align: center; text-decoration: none!important; color: #777;}
-    .image-gallery li a span {display: block; text-overflow: ellipsis; overflow: hidden; white-space: nowrap; padding: 3px 0;}
-    .image-gallery li a img {width: 100%; display: block;}
+  .image-gallery {
+    padding: 0;
+    margin: 2rem auto;    /* auto-left/right to keep the block centred */
+    text-align: center;   /* centre the inline-blocks within */
+    list-style: none;
+  }
+  .image-gallery li {
+    display: inline-block; /* sit side-by-side but shrink-wrap */
+    float: none;           /* override your old float:left */
+    margin: 0 1rem;        /* space between logos */
+    width: auto;           /* let them size by content */
+    vertical-align: middle;
+  }
+  .image-gallery li a img {
+    max-height: 200px;     /* bump this up or down to taste */
+    width: auto;           /* preserve aspect ratio */
+    display: block;
+  }
 </style>
 
+
 {{ $dir := string (.Get "gallery_dir") }}
-<ul class="image-gallery">
-{{ range (readDir (print "/assets" $dir)) }}
-  {{- $image := resources.Get (printf "%s/%s" $dir .Name) -}}
-  {{- $imageurl := printf "%s/%s" $dir .Name -}}
-  <!-- {{- $imagetitle := index (split .Name ".") 0 -}} -->
-    <li>
-      <a href="{{ ($image.Fit "300x300 q50").Permalink }}" title="{{ $imagetitle }}" class="lightbox-image">
-        <img src="{{ ($image.Fit "300x300 q50").Permalink }}" alt="{{ $imagetitle }}" title="{{ $imagetitle }}">
-        <!-- <span>{{ $imagetitle }}</span> -->
-      </a>
-    </li>
-  
-{{ end }}
-</ul>
+<div style="text-align: center;">
+  <ul class="image-gallery">
+    {{- range readDir (print "/assets" $dir) }}
+      {{- $image := resources.Get (printf "%s/%s" $dir .Name) -}}
+      {{- $resized := $image.Fit "400x400 q50" -}}
+      <li>
+        <a href="{{ $resized.Permalink }}" class="lightbox-image">
+          <img src="{{ $resized.Permalink }}" alt="{{ .Name }}">
+        </a>
+      </li>
+    {{- end }}
+  </ul>
+</div>
