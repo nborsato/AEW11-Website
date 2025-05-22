@@ -37,4 +37,22 @@ Attendance is free, and participants are welcome to join one or both meetings. A
 
 </div>
 
+{{% blocks/link-down color="info" %}}
+
 {{% /blocks/cover %}}
+
+{{% blocks/section color="dark" type="row" %}}
+
+{{% blocks/feature icon="fa-star" title="Stars SOC" %}} Orsola de Marco (Macquarie University)
+{{% /blocks/feature %}}
+
+{{% blocks/feature icon="fa-earth-oceania" title="Exoplanets SOC" %}} Benjamin Pope (Macquarie University)
+{{% /blocks/feature %}}
+
+{{% blocks/feature icon="fa-solid fa-building-columns" title="LOC" %}} Tom Evans-Soma (Newcastle University)
+Nicholas Borsato (Macquarie University)
+{{% /blocks/feature %}}
+
+{{% /blocks/section %}}
+
+{{< image-gallery gallery_dir="/logos" >}}
