@@ -2,7 +2,7 @@
 title: Logistics
 menu:
   main:
-    weight: 40
+    weight: 25
 date: 2024-10-08
 ---
 

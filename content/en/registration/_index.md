@@ -2,12 +2,13 @@
 title: "Registration"
 menu:
   main:
-    weight: 30
-text-align: justify
+    weight: 20
+date: 2024-10-08
 ---
 
+{{% blocks/cover title="Registration" image_anchor="top" height="full" %}}
 
-{{% blocks/mycover title="Registration" image_anchor="top" height="full" %}}
+<div style="max-width:800px; margin:2rem auto; background-color: rgba(1, 2, 18, 0.8); padding: 2rem; border-radius: 1rem; text-align: left;">
 
 Conference registration is free for both conferences, and you can register separately or jointly.  
 
@@ -15,21 +16,14 @@ Conference registration is free for both conferences, and you can register separ
 
 Please fill out the form below to register.
 
-[Abstract submission is coming soon!]
+*Abstract submission is coming soon!*
 
 ## Key dates
 
-**Key dates:**
-Registration deadline: **{{< param "keydates.registration" >}}**
-Abstract submission: **{{< param "keydates.abstract" >}}**
-Programme finalised: **{{< param "keydates.programme" >}}**
+- Registration deadline: **{{< param "keydates.registration" >}}**  
+- Abstract submission: **{{< param "keydates.abstract" >}}**  
+- Programme finalised: **{{< param "keydates.programme" >}}**
 
-{{% /blocks/mycover %}}
+</div>
 
-[//]: # (<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSflZu5L4L-0rZbyOZa5vYs4omvvA9xBIM3NU7vP5xiTwvB1vw/viewform?usp=sharing&ouid=100389180576383197966")
-
-[//]: # (        width="100%" height="1600" frameborder="0" marginheight="0" marginwidth="0">)
-
-[//]: # (  Loading…)
-
-[//]: # (</iframe>)
+{{% /blocks/cover %}}
