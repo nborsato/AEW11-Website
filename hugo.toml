@@ -188,6 +188,7 @@ enable = false
     disable = false
 
 [params.keydates]
-registration = "16 August"
-abstract = "1 September"
-programme = "1 October"
+registration = "20 May"
+abstract = "1 July"
+programme = "26 September"
+closing_dates = "29 August"
