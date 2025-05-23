@@ -128,6 +128,10 @@ offlineSearch = false
 # Enable syntax highlighting and copy buttons on code blocks with Prism
 prism_syntax_highlighting = false
 
+[params.assets]
+customSCSS = ["scss/main.scss"]
+
+
 [params.copyright]
   authors = "Docsy Authors | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0) | "
   from_year = 2018
@@ -188,6 +192,8 @@ enable = false
     disable = false
 
 [params.keydates]
-registration = "16 August"
-abstract = "1 September"
-programme = "1 October"
+registration = "20 May"
+abstract = "1 July"
+programme = "26 September"
+closing_dates = "29 August"
+
