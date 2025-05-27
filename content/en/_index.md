@@ -49,10 +49,16 @@ Attendance is free, and participants are welcome to join one or both meetings. A
 {{% blocks/feature icon="fa-earth-oceania" title="Exoplanets SOC" %}} Benjamin Pope (Macquarie University)
 {{% /blocks/feature %}}
 
-{{% blocks/feature icon="fa-solid fa-building-columns" title="LOC" %}} Tom Evans-Soma (Newcastle University)  
-Nicholas Borsato (Macquarie University)
+{{% blocks/feature icon="fa-solid fa-building-columns" title="LOC" %}}  
+Tom Evans-Soma (University of Newcastle)  
+
+Nicholas Borsato (Macquarie University)  
+
+David Pontin (University of Newcastle)  
+
 {{% /blocks/feature %}}
 
 {{% /blocks/section %}}
 
 {{< image-gallery gallery_dir="/logos" >}}
+
