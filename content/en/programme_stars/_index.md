@@ -14,13 +14,6 @@ date: 2024-10-08
 
 The full programme for the **Stars** stream will be released following abstract review.
 
-Please check back here soon for the full schedule of speakers and sessions.  
-
-**Key dates:**  
-Abstract submissions open: **{{< param "keydates.abstract" >}}**  
-Registration & abstract deadline: **{{< param "keydates.closing_dates" >}}**  
-Programme finalised: **{{< param "keydates.programme" >}}**
-
 </div>
 
 {{% /blocks/cover %}}
