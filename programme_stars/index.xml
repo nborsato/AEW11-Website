@@ -1,13 +1,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Stars in Brisbane | AEW11 – Programme - Stars</title>
-    <link>https://nborsato.github.io/AEW11-Website/programme_stars/</link>
-    <description>Recent content in Programme - Stars on Stars in Brisbane | AEW11</description>
+    <title>Stars in Newcastle | AEW11 – Programme - Stars</title>
+    <link>http://localhost:1313/programme_stars/</link>
+    <description>Recent content in Programme - Stars on Stars in Newcastle | AEW11</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Tue, 08 Oct 2024 00:00:00 +0000</lastBuildDate>
     
-	  <atom:link href="https://nborsato.github.io/AEW11-Website/programme_stars/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="http://localhost:1313/programme_stars/index.xml" rel="self" type="application/rss+xml" />
     
     
       
@@ -17,22 +17,22 @@
     
     <item>
       <title>Programme_stars: Easy documentation with Docsy</title>
-      <link>https://nborsato.github.io/AEW11-Website/programme_stars/news/first-post/</link>
+      <link>http://localhost:1313/programme_stars/news/first-post/</link>
       <pubDate>Sat, 06 Oct 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://nborsato.github.io/AEW11-Website/programme_stars/news/first-post/</guid>
+      <guid>http://localhost:1313/programme_stars/news/first-post/</guid>
       <description>
         
         
         
-        <![CDATA[<img src="https://nborsato.github.io/AEW11-Website/programme_stars/news/first-post/featured-sunset-get_hu_d85541de2fa076f9.png" width="640" height="253"/>]]>
+        <![CDATA[<img src="http://localhost:1313/programme_stars/news/first-post/featured-sunset-get_hu_d85541de2fa076f9.png" width="640" height="253"/>]]>
         
         &lt;p&gt;&lt;strong&gt;This is a typical blog post that includes images.&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;The front matter specifies the date of the blog post, its title, a short description that will be displayed on the blog landing page, and its author.&lt;/p&gt;
 
 &lt;p&gt;Here&amp;rsquo;s an image (&lt;code&gt;featured-sunset-get.png&lt;/code&gt;) that includes a byline and a caption.&lt;/p&gt;
 &lt;figure class=&#34;card rounded p-2 td-post-card mb-4 mt-4&#34; style=&#34;max-width: 610px&#34;&gt;
-&lt;img class=&#34;card-img-top&#34; src=&#34;https://nborsato.github.io/AEW11-Website/programme_stars/news/first-post/featured-sunset-get_hu_ec172e7b7ea555c1.png&#34; width=&#34;600&#34; height=&#34;300&#34;&gt;
+&lt;img class=&#34;card-img-top&#34; src=&#34;http://localhost:1313/programme_stars/news/first-post/featured-sunset-get_hu_ec172e7b7ea555c1.png&#34; width=&#34;600&#34; height=&#34;300&#34;&gt;
 &lt;figcaption class=&#34;card-body px-0 pt-2 pb-0&#34;&gt;
 &lt;p class=&#34;card-text&#34;&gt;
 
@@ -51,7 +51,7 @@ Fetch and scale an image in the upcoming Hugo 0.43.
     byline: &amp;#34;Photo: Riona MacNamara / CC-BY-CA&amp;#34;
 &lt;/code&gt;&lt;/pre&gt;&lt;p&gt;To include the image in a page, specify its details like this:&lt;/p&gt;
 &lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;&lt;figure class=&#34;card rounded p-2 td-post-card mb-4 mt-4&#34; style=&#34;max-width: 610px&#34;&gt;
-&lt;img class=&#34;card-img-top&#34; src=&#34;https://nborsato.github.io/AEW11-Website/programme_stars/news/first-post/featured-sunset-get_hu_ec172e7b7ea555c1.png&#34; width=&#34;600&#34; height=&#34;300&#34;&gt;
+&lt;img class=&#34;card-img-top&#34; src=&#34;http://localhost:1313/programme_stars/news/first-post/featured-sunset-get_hu_ec172e7b7ea555c1.png&#34; width=&#34;600&#34; height=&#34;300&#34;&gt;
 &lt;figcaption class=&#34;card-body px-0 pt-2 pb-0&#34;&gt;
 &lt;p class=&#34;card-text&#34;&gt;
 
@@ -69,10 +69,10 @@ Fetch and scale an image in the upcoming Hugo 0.43.
     
     <item>
       <title>Programme_stars: Second blog post</title>
-      <link>https://nborsato.github.io/AEW11-Website/programme_stars/news/second-post/</link>
+      <link>http://localhost:1313/programme_stars/news/second-post/</link>
       <pubDate>Sat, 06 Oct 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://nborsato.github.io/AEW11-Website/programme_stars/news/second-post/</guid>
+      <guid>http://localhost:1313/programme_stars/news/second-post/</guid>
       <description>
         
         
@@ -372,10 +372,10 @@ bar := &amp;#34;foo&amp;#34;;
     
     <item>
       <title>Programme_stars: Another Great Release</title>
-      <link>https://nborsato.github.io/AEW11-Website/programme_stars/releases/in-depth-monoliths-detailed-spec/</link>
+      <link>http://localhost:1313/programme_stars/releases/in-depth-monoliths-detailed-spec/</link>
       <pubDate>Thu, 04 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://nborsato.github.io/AEW11-Website/programme_stars/releases/in-depth-monoliths-detailed-spec/</guid>
+      <guid>http://localhost:1313/programme_stars/releases/in-depth-monoliths-detailed-spec/</guid>
       <description>
         
         

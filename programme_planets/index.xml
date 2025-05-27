@@ -1,13 +1,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Stars in Brisbane | AEW11 – Programme - Planets</title>
-    <link>https://nborsato.github.io/AEW11-Website/programme_planets/</link>
-    <description>Recent content in Programme - Planets on Stars in Brisbane | AEW11</description>
+    <title>Stars in Newcastle | AEW11 – Programme - Planets</title>
+    <link>http://localhost:1313/programme_planets/</link>
+    <description>Recent content in Programme - Planets on Stars in Newcastle | AEW11</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Tue, 08 Oct 2024 00:00:00 +0000</lastBuildDate>
     
-	  <atom:link href="https://nborsato.github.io/AEW11-Website/programme_planets/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="http://localhost:1313/programme_planets/index.xml" rel="self" type="application/rss+xml" />
     
     
       

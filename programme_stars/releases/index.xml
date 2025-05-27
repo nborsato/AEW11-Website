@@ -1,12 +1,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Stars in Brisbane | AEW11 – Releases</title>
-    <link>https://nborsato.github.io/AEW11-Website/programme_stars/releases/</link>
-    <description>Recent content in Releases on Stars in Brisbane | AEW11</description>
+    <title>Stars in Newcastle | AEW11 – Releases</title>
+    <link>http://localhost:1313/programme_stars/releases/</link>
+    <description>Recent content in Releases on Stars in Newcastle | AEW11</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     
-	  <atom:link href="https://nborsato.github.io/AEW11-Website/programme_stars/releases/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="http://localhost:1313/programme_stars/releases/index.xml" rel="self" type="application/rss+xml" />
     
     
       
@@ -16,10 +16,10 @@
     
     <item>
       <title>Programme_stars: Another Great Release</title>
-      <link>https://nborsato.github.io/AEW11-Website/programme_stars/releases/in-depth-monoliths-detailed-spec/</link>
+      <link>http://localhost:1313/programme_stars/releases/in-depth-monoliths-detailed-spec/</link>
       <pubDate>Thu, 04 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://nborsato.github.io/AEW11-Website/programme_stars/releases/in-depth-monoliths-detailed-spec/</guid>
+      <guid>http://localhost:1313/programme_stars/releases/in-depth-monoliths-detailed-spec/</guid>
       <description>
         
         
